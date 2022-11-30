@@ -4,11 +4,11 @@
 	"update": [
 		{
 			"languaje": "en",
-			"changelog": "https://raw.githubusercontent.com/green404/UMIWAB/main/changelog-B-en.html"
+			"changelog": "https://raw.githubusercontent.com/green404/UMIWAB/main/Changelog.html"
 		},
 		{
 			"languaje": "es",
-			"changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/changelog-B-es.html"
+			"changelog": "https://raw.githubusercontent.com/green404/UMIWAB/main/Changelog.html"
 		}
 	]
 }
