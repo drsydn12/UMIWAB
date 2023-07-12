@@ -1,5 +1,5 @@
 {
-	"version": "21.0",
+	"version": "20.0",
 	"download": "https://umiwab.site/",
 	"update": [
 		{
