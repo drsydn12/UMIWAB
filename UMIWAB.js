@@ -1,6 +1,6 @@
 {
-	"version": "20.0",
-	"download": "https://difarosyidin.blogspot.com",
+	"version": "21.0",
+	"download": "https://umiwab.site/",
 	"update": [
 		{
 			"languaje": "en",
